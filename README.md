@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @finestworksong
-- 👀 I’m interested in swimming around the world
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on weird art projects
+- 🏊🏼 I’m interested in swimming around the world
+- 🌱 I’m currently learning python 🐍
+- 🧑🏽‍🎨 I’m looking to collaborate on weird art projects
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I have spent more than half my life in college
 
